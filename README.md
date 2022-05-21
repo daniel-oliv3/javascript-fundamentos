@@ -41,16 +41,35 @@
 ### 5 - USE STRICT.
 - Ex 05_user-strict
 
+### 6 - VARIÁVEIS.
+- Ex 06_variaveis
 
+### 7 - EXERCÍCIOS COM VARIÁVEIS.
+- Ex 07_ex-variaveis
 
+### 8 - CONSTANTES.
+- Ex 08_constantes
 
+### 9 - DATATYPES.
+- Ex 09_datatypes
 
+### 10 - OPERADORES MATEMÁTICOS.
+- Ex 10_operadores-matematicos
 
+### 11 - OPERADORES DE COMPARAÇÃO.
+- Ex 11_operadores-de-comparacao
 
+### 12 - INSTRUÇÕES CONDICIONAIS.
+- Ex 12_instrucoes-condicionais
 
+### 13 - CICLO WHILE E DO WHILE.
+- Ex 13_while-do-while
 
+### 14 - CICLO FOR.
+- Ex 14_for
 
-
+### 15 - SWITCH.
+- Ex 15_switch
 
 
 
