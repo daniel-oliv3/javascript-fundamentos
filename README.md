@@ -6,8 +6,6 @@
 - Inicialmente conhecida por LiveScript.
 - Mudaram para JavaScript por causa do Java da Sun Micro.
 - JavaScript não têm praticamente nada em comum.
-
-
 - Foi gradualmente adotada por outros browsers.
 - Durant muitos anos foi considerada uma linguagem pouca séria.
 - Era pouca segura, mais não havia alternativas.
@@ -15,6 +13,7 @@
 - Chrome V8 = motor de alta performance para JavaScript.
 - Outros motores vinheram depois.
 - Em 2009, Ryan Dahl cria o NodeJs... O resto é histótria e futuro...
+- Wikipedia: - https://pt.wikipedia.org/wiki/JavaScript
 
 ### 2 - AMBIENTE DE DESENVOLVIMENTO COM VSCODE E NODEJS.
 ## Instalações Essências.
