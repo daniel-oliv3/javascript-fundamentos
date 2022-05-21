@@ -32,12 +32,14 @@
 ### 3 - STATEMENTS.
 - Ex 03_statements
 
-### 04 - COMMENTS.
+### 4 - COMMENTS.
 - Ex 04_comments
 
 - // Comentários em uma unica linha
 - /* Bloco de comentários com multiplas linhas */
 
+### 5 - USE STRICT.
+- Ex 05_user-strict
 
 
 
