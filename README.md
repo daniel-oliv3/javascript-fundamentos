@@ -23,8 +23,20 @@
 - Verifica a versão do node.js instalado.
 - node -v
 
+- Criação do projecto.
+- Ex 02_javascript
+
 - Roda o projeto no console
 - node script.js
+
+### 3 - STATEMENTS.
+- Ex 03_statements
+
+### 04 - COMMENTS.
+- Ex 04_comments
+
+- // Comentários em uma unica linha
+- /* Bloco de comentários com multiplas linhas */
 
 
 
