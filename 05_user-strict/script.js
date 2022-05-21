@@ -1,13 +1,16 @@
 console.clear(); //limpa o console
 
+//"use strict";
 
-console.log("A");
-console.log("B");
+nome = "Daniel";
 
 
-// Comentario em Linha
 
-/* Bloco de Comentario */
+
+
+
+//Apresenta no console
+console.log(nome);
 
 
 
