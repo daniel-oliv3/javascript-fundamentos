@@ -13,7 +13,10 @@
 - Em 2008, a Google criou o motor open-source Chrome V8.
 - Chrome V8 = motor de alta performance para JavaScript.
 - Outros motores vinheram depois.
-- Em 2009, Ryan Dahl cria o NodeJs... 
+- Em 2009, Ryan Dahl cria o NodeJs... O resto é histótria e futuro...
+
+### 2 - AMBIENTE DE DESENVOLVIMENTO COM VSCODE E NODEJS.
+
 
 
 
