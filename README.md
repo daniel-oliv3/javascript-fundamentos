@@ -20,6 +20,12 @@
 - Visual Studio Code - https://code.visualstudio.com/download
 - Node.js - https://nodejs.org/en/
 
+- Verifica a versão do node.js instalado.
+- node -v
+
+- Roda o projeto no console
+- node script.js
+
 
 
 
